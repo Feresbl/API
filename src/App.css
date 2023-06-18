@@ -1,0 +1,39 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  background-color: #b90000;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.username {
+  color: #777777;
+}
+
+.email {
+  color: #777777;
+}
+
+.website {
+  color: #777777;
+}
+
